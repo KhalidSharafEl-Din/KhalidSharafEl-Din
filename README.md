@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalid Sharaf El-Din</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%E2%80%9CDon't+Panic.%E2%80%9D+...)](https://git.io/typing-svg)
 <h3 align="center">A passionate Embedded Systems Engineer | Cybersecurity</h3>
 
 - 🌱 I’m currently learning **Software Testing | AVR Development | AMR Development**
