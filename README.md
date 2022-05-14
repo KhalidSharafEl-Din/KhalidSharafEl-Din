@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khalid Sharaf El-Din</h1>
 <h3 align="center">A passionate Embedded Systems Engineer | Cybersecurity</h3>
 
-- 🌱 I’m currently learning **Software Testing**
+- 🌱 I’m currently learning **Software Testing | AVR Development | AMR Development **
 
-- 💬 Ask me about **C, C++, Python, Adruino**
+- 💬 Ask me about **C, C++, Python, Adruino, Photography**
 
 - 📫 How to reach me **khalid-gamal@outlook.com**
 
