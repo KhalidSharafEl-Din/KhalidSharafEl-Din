@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **khalid-gamal@outlook.com**
 
-- 📄 Know about my experiences [[My Resume](https://drive.google.com/file/d/13sTeB2x4uB-2JPnfWWE4I_pFvI5Z55bW/view?usp=sharing)]([My Resume](https://drive.google.com/file/d/13sTeB2x4uB-2JPnfWWE4I_pFvI5Z55bW/view?usp=sharing))
+- 📄 Know about my experiences [[My Resume](https://drive.google.com/file/d/13sTeB2x4uB-2JPnfWWE4I_pFvI5Z55bW/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
