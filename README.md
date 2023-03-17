@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khalid Sharaf El-Din</h1>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%E2%80%9CDon't+Panic.%E2%80%9D+..."></p>
-<h3 align="center">A passionate Embedded Systems Engineer | Cybersecurity</h3>
+<h3 align="center">A passionate Embedded CyberSecurity Engineer</h3>
 
-- 🌱 I’m currently learning **Software Testing | AVR Development | AMR Development**
+- 🌱 I’m currently learning **Moblie Apps PenTest | IOT PenTest | AMR Development**
 
 - 💬 Ask me about **C, C++, Python, Adruino, Photography**
 
