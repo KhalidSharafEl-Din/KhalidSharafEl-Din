@@ -24,5 +24,3 @@ I'm a cybersecurity engineer at Tabby in Abu Dhabi. I own the security scanning 
 | eWPTX, Web Application Penetration Tester eXtreme | INE | 2024 |
 | eCPPT, Certified Professional Penetration Tester | INE | 2024 |
 | eWPT, Web Application Penetration Tester | INE | 2022 |
-
-<sub>The older public repos here come from my embedded systems and software testing work in 2022.</sub>
