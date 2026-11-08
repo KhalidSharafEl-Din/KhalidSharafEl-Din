@@ -1,25 +1,28 @@
-<h1 align="center">Hi 👋, I'm Khalid Sharaf El-Din</h1>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%E2%80%9CDon't+Panic.%E2%80%9D+..."></p>
-<h3 align="center">A passionate Embedded CyberSecurity Engineer</h3>
+<a href="https://khalidsharafeldin.com"><img src="assets/banner.png" alt="Khalid Sharafeldin, Cybersecurity Engineer in Abu Dhabi. I build security into how software ships, from the CI/CD pipeline to the cloud it runs on." width="100%"></a>
 
-- 🌱 I’m currently learning **Moblie Apps PenTest | IOT PenTest | AMR Development**
-
-- 💬 Ask me about **C, C++, Python, Adruino, Photography**
-
-- 📫 How to reach me **khalid-gamal@outlook.com**
-
-- 📄 Know about my experiences [[My Resume](https://drive.google.com/file/d/13PvgHi8QSmkp2hQEYPbpW4qFdHPVMH-r/view?usp=share_link)]
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/khalid-sharaf-el-din" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalid-sharaf-el-din" height="30" width="40" /></a>
-<a href="https://fb.com/khalid.gamal.7967" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalid.gamal.7967" height="30" width="40" /></a>
-<a href="https://instagram.com/khalid_sharaf_eldin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khalid_sharaf_eldin" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@khalid_gamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@khalid_gamal" height="30" width="40" /></a>
+<p>
+  <a href="https://khalidsharafeldin.com"><img src="https://img.shields.io/badge/khalidsharafeldin.com-0b0d10?style=flat-square&logo=firefoxbrowser&logoColor=ff7a29" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/khalid-sharaf-el-din/"><img src="https://img.shields.io/badge/LinkedIn-0b0d10?style=flat-square&logo=linkedin&logoColor=ff7a29" alt="LinkedIn"></a>
+  <a href="mailto:contact@khalidsharafeldin.com"><img src="https://img.shields.io/badge/contact%40khalidsharafeldin.com-0b0d10?style=flat-square&logo=protonmail&logoColor=ff7a29" alt="Email"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I'm a cybersecurity engineer at Tabby in Abu Dhabi. I own the security scanning in the CI/CD pipeline, configure cloud security policies, and run penetration tests of web and mobile apps. I started in offensive security, and I'm studying for OSCP.
 
+### What I work on
 
-<p align="center"><img src ="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&center=true&vCenter=true&multiline=true&width=850&height=100&lines=+I+love+connecting+with+different+people+;so+if+you+want+to+say+hi%2C+I'll+be+happy+to+meet+you+more!+%3A"></p>
+- **DevSecOps.** I run SAST and SCA in CI/CD and tune them so developers see real findings and fewer false positives.
+- **Cloud security.** I configure cloud security policies and automated case workflows.
+- **Application security.** I test web and mobile apps every quarter and track findings to remediation.
+
+### Certifications
+
+| Certification | Issuer | Status |
+| :-- | :-- | :-- |
+| OSCP, OffSec Certified Professional | OffSec | In progress |
+| eCIR, Certified Incident Responder | INE | In progress |
+| eMAPT, Mobile Application Penetration Tester | INE | 2026 |
+| eWPTX, Web Application Penetration Tester eXtreme | INE | 2024 |
+| eCPPT, Certified Professional Penetration Tester | INE | 2024 |
+| eWPT, Web Application Penetration Tester | INE | 2022 |
+
+<sub>The older public repos here come from my embedded systems and software testing work in 2022.</sub>
